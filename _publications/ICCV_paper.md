@@ -1,7 +1,7 @@
 ---
 title: "Towards robust natural-looking mammography lesion synthesis on ipsilateral dual-views breast cancer analysis"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/ICCV_paper
 excerpt: 
 date: 2023-10-01
