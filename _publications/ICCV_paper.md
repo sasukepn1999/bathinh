@@ -4,7 +4,7 @@ collection: publications
 category: conference
 permalink: /publication/ICCV_paper
 excerpt: 
-date: 2023
+date: 2023-10-01
 venue: 'ICCV Workshop'
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Nguyen_Towards_Robust_Natural-Looking_Mammography_Lesion_Synthesis_on_Ipsilateral_Dual-Views_Breast_ICCVW_2023_paper.pdf'
