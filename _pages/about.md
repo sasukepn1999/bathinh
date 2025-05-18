@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Thinh. I am an AI research fellowship at AI VIETNAM. Prior that, I worked as an AI research assistant at SAIGONMEC under the supervision of Prof. [Le Nguyen Quoc Khanh](https://scholar.google.com.tw/citations?user=4c7lOjIAAAAJ&hl=en) and Prof. [Ho Pham Thuc Lan](https://scholar.google.com/citations?user=B8tHNw4AAAAJ&hl=en). Before commencing my research journey, I was an AI engineer in Speech Processing at [VinBigData](https://vinbigdata.com/en), national top-tech AI company in Vietnam, for 10 months.
+This is Thinh. I am an AI research fellow at AI VIETNAM. Prior to that, I worked as an AI research assistant at SAIGONMEC under the supervision of Prof. [Le Nguyen Quoc Khanh](https://scholar.google.com.tw/citations?user=4c7lOjIAAAAJ&hl=en) and Prof. [Ho Pham Thuc Lan](https://scholar.google.com/citations?user=B8tHNw4AAAAJ&hl=en). Before commencing my research journey, I was an AI engineer in Speech Processing at [VinBigData](https://vinbigdata.com/en), a national top-tech AI company in Vietnam, for 10 months.
 
-I gained the Honours Bacherlor's Degree in Information Technology from the University of Science, Vietnam National University - Ho Chi Minh in 2021.
+I gained the Honours Bachelor's Degree in Information Technology from the University of Science, Vietnam National University - Ho Chi Minh in 2021.
 
 Research interests
 ---
@@ -22,7 +22,7 @@ I enjoy studying generalization bounds under these scenarios to propose appropri
 
 Seeking PhD opportunities
 ---
-Currently, I am actively looking for PhD opportunities in Machine learning and Computer vision with emphasis on representation learning, domain adaptation.
+Currently, I am actively looking for PhD opportunities in Machine learning and Computer vision with emphasis on representation learning and domain adaptation.
 
 
 <!-- ======
